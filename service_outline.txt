@@ -1,0 +1,5 @@
+Bu dosya, Empatik Yankı analiz servisinin
+ileride geliştirilecek bileşenlerini
+kavramsal olarak tanımlar.
+
+Bu bir algoritma veya çalışır kod değildir.
