@@ -3,3 +3,23 @@ ileride geliştirilecek bileşenlerini
 kavramsal olarak tanımlar.
 
 Bu bir algoritma veya çalışır kod değildir.
+Empatik Yankı – Hizmet Anahattı
+
+Bu belge, Empatik Yankı projesinin
+ticari ve etik hizmet modelini tanımlar.
+
+Bu bir yazılım kodu veya algoritma değildir.
+
+Hizmet; dijital ortamlarda psikolojik zarar,
+toksik dil ve gizli mobbing risklerini
+analiz etmeye yönelik bir değerlendirme
+servisi olarak tasarlanmıştır.
+
+Çıktılar:
+- Risk yoğunluğu raporu
+- Etkileşim sağlığı göstergeleri
+- Kurumsal veya platform bazlı analiz özeti
+
+Bu hizmet, yazılım satışı değil;
+analiz, raporlama ve danışmanlık modeli
+üzerinden sunulacaktır.
